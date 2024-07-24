@@ -19,8 +19,4 @@ to discuss what you would like to change.
 
 
 ### Current Maintainer
-- [Subhankar Sahoo](https://github.com/sahoo-subha)
-
-### License
-
-- [MIT](https://github.com/sahoo-subha/Sudoku_Puzzle_Solver_Visualizer/blob/main/LICENSE)
+- [Dev Bhardwaj](https://github.com/Dev-Bhardwaj123)
